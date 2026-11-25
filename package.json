@@ -1,6 +1,5 @@
 {
   "name": "estate-loop",
-  "packageManager": "yarn@1.22.22",
   "private": true,
   "scripts": {
     "dev": "next dev",
